@@ -1,4 +1,4 @@
-<img width="322" height="913" alt="image" src="https://github.com/user-attachments/assets/e2ddbf36-23d8-4756-a3b8-56166c2990f9" />God save our gracious King/Queen!	<P>
+God save our gracious King/Queen!	<P>
 Long live our noble King/Queen!	<P>
 God save the King/Queen!	<P>
 Send him/her victorious,	<P>
@@ -40,6 +40,7 @@ May he/she sedition hush,	<P>
 And like a torrent rush,	<P>
 Rebellious Scots to crush.	<P>
 God save the King/Queen!	<P>
+
 ---------------------------------------
 <P>	上帝保佑国王/女王，
 <P>	祝他/她万寿无疆，
