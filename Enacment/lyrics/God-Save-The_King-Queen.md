@@ -27,7 +27,7 @@ God save us all.	<P>
 <P>	乱盟尽数扫光；
 <P>	让我们齐仰望，
 <P>	天佑吾等！
-  ---------
+<P>---------</P>
 <P>Thy choicest gifts in store	<P>
 On him/her be pleased to pour,	<P>
 Long may he/she reign.	<P>
@@ -42,7 +42,7 @@ God save the King/Queen.	<P>
 <P>	使民心齐归向，
 <P>	一致衷心歌唱，
 <P>	天佑国王/女王！
-  -----------
+<P>---------</P>
 <P>Not in this land alone,	<P>
 But be God's mercies known,	<P>
 From shore to shore!	<P>
@@ -71,8 +71,7 @@ God save the King/Queen!	<P>
 <P>	不列颠需捍卫，
 <P>	吾父/母、王族、挚友，
 <P>	天佑国王/女王！
-----------
-
+<P>---------</P>
 Lord grant that Marshal Wade	<P>
 May by thy mighty aid	<P>
 Victory bring.	<P>
@@ -87,10 +86,3 @@ God save the King/Queen!
 <P>	尤如恐撃以欲，
 <P>	叛苏人必前仆，
 <P>	天佑国王/女王！
-
-
-
-
-
-
-
