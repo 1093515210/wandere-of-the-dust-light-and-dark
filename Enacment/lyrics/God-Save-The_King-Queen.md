@@ -56,6 +56,7 @@ And form one family,	<P>
 <P>	兄弟即是尔邦，
 <P>	温馨家庭祈望，
 <P>	天地倘佯！
+<P>---------</P>
 The wide world over.	<P>
 From every latent foe,	<P>
 From the assassins blow,	<P>
@@ -72,8 +73,8 @@ God save the King/Queen!	<P>
 <P>	吾父/母、王族、挚友，
 <P>	天佑国王/女王！
 <P>---------</P>
-Lord grant that Marshal Wade	<P>
-May by thy mighty aid	<P>
+Lord grant that Marshal Wade
+<P>May by thy mighty aid	<P>
 Victory bring.	<P>
 May he/she sedition hush,	<P>
 And like a torrent rush,	<P>
