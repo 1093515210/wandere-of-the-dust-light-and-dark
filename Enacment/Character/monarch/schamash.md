@@ -36,3 +36,4 @@
 36	沙玛什皇帝	古斯塔夫·德拉封丹	Gustave de la Fontaine	由吾乐孔	《大方广佛华严经卷一世主妙严品第一之一》	<p>
 37	沙玛什皇帝	基安·劳伦特·保罗·德拉封丹	Kian Laurent Paul de la Fontaine	由吾离兹	《大方广佛华严经卷一世主妙严品第一之一》	<p>
 38	沙玛什皇帝	多纳廷·伯尼菲斯·德拉封丹	Donatien Boniface de la Fontaine	由吾顺烩	《大方广佛华严经卷一世主妙严品第一之一》	<p>
+中文来源于后面经典
