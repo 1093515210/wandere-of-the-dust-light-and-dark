@@ -1,4 +1,4 @@
-<img width="1087" height="21" alt="image" src="https://github.com/user-attachments/assets/3803d1f8-b79e-4d8d-a034-f98fff85c829" />1、兰斯洛特·德拉封丹  Lancelot de la Fontaine	钟离诚见		<p>
+1、兰斯洛特·德拉封丹  Lancelot de la Fontaine	钟离诚见		<p>
 2、默塞尔·德拉封丹	Mercer de la Fontaine	钟离愿荣		<p>
 3、西德尼·德拉封丹	Sidney de la Fontaine	钟离云降		<p>
 4、达西·德拉封丹	Darcy de la Fontaine	钟离从原		<p>
