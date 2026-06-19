@@ -1,4 +1,3 @@
-顺序	类别	名字	拉丁化	中文名	中文名来源	<p>
 1	沙玛什皇帝	阿耳方斯·德拉封丹	Alphonse de la Fontaine	由吾庆卓		<p>
 2	沙玛什皇帝	雅克·德拉封丹	Jacques de la Fontaine	由吾德寿		<p>
 3	沙玛什皇帝	克劳德·德拉封丹	Claude de la Fontaine	由吾涛智		<p>
