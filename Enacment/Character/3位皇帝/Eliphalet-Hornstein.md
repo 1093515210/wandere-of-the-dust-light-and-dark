@@ -1,4 +1,4 @@
-<img width="283" height="20" alt="image" src="https://github.com/user-attachments/assets/9b39c5be-5023-4402-bd38-e680241faf75" />姓名：伊利法乐·霍伦斯坦	<p>
+姓名：伊利法乐·霍伦斯坦	<p>
 姓名拉丁化：Eliphalet Hornstein	<p>
 中文名：兮骨雍	<p>
 字：滔橼	<p>
