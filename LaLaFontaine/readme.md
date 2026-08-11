@@ -2,3 +2,5 @@
 <Wanderer of The Dust Light and Dark—la la Fontaine><P>
 当阳间法律失效，天道将成为新律。<P>
 作者：穆桂沁又名川嶋息吹（伊吹）十三世（Kawashima Ibuki XIII）<P>
+书写日期：2026/2/8-2026/3/13<p>
+<img width="651" height="466" alt="image" src="https://github.com/user-attachments/assets/9ed5edac-8e7f-4f76-87e0-d46107966f81" />
