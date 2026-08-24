@@ -1,4 +1,4 @@
-1	沙玛什皇帝	阿耳方斯·德拉封丹	Alphonse de la Fontaine	由吾庆卓		<p>
+1	沙玛什皇帝	阿耳方斯·德拉封丹	Alphonse de la Fontaine	由吾庆卓/国母瑪蒂娜·帕拉維奇尼（Martina Pallavicini）		<p>
 2	沙玛什皇帝	雅克·德拉封丹	Jacques de la Fontaine	由吾德寿		<p>
 3	沙玛什皇帝	克劳德·德拉封丹	Claude de la Fontaine	由吾涛智		<p>
 4	沙玛什皇帝	莫里斯·德拉封丹	Maurice de la Fontaine	由吾春庄		<p>
@@ -34,6 +34,6 @@
 34	沙玛什皇帝	弗洛朗延·德拉封丹	Florentin de la Fontaine	由吾峰耀	《大方广佛华严经卷一世主妙严品第一之一》	<p>
 35	沙玛什皇帝	弗洛朗特·德拉封丹	Florent de la Fontaine	由吾如为	《大方广佛华严经卷一世主妙严品第一之一》	<p>
 36	沙玛什皇帝	古斯塔夫·德拉封丹	Gustave de la Fontaine	由吾乐孔	《大方广佛华严经卷一世主妙严品第一之一》	<p>
-37	沙玛什皇帝	基安·劳伦特·保罗·德拉封丹	Kian Laurent Paul de la Fontaine	由吾离兹	《大方广佛华严经卷一世主妙严品第一之一》	<p>
-38	沙玛什皇帝	多纳廷·伯尼菲斯·德拉封丹	Donatien Boniface de la Fontaine	由吾顺烩	《大方广佛华严经卷一世主妙严品第一之一》	<p>
+37	沙玛什皇帝	基安·劳伦特·保罗·德拉封丹	Kian Laurent Paul de la Fontaine	由吾离兹	《大方广佛华严经卷一世主妙严品第一之一》，皇后卜琳玛薇拉·布尔吉奥（Primavera Burgio）	<p>
+38	沙玛什皇帝	多纳廷·伯尼菲斯·德拉封丹	Donatien Boniface de la Fontaine	由吾顺烩	《大方广佛华严经卷一世主妙严品第一之一》，第二任太太陆朵薇咔·萨托利（Ludovica Sartori）	<p>
 中文来源于后面经典
