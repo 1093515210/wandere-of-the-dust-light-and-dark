@@ -6,4 +6,4 @@
 书写日期：A-N章，2026/3/29-2026/8/25。
 
 <img width="358" height="516" alt="image" src="https://github.com/user-attachments/assets/a9a750a3-e667-4a3f-a6c3-8df90ef4fe31" />
-![Uploading image.png…]()
+<img width="359" height="507" alt="image" src="https://github.com/user-attachments/assets/c69a7d5c-b821-4f4a-8bac-37915d3b84b5" />
