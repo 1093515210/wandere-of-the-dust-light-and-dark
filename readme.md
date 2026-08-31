@@ -19,6 +19,7 @@ https://x.com/AlexandreA23520/status/2087120972566712401?s=20
 ## 支线篇：
 最早《大追王朝 Confucius Out》斯家追朝史<p>
 《子承母业 Gray Prison》有人有空间便形成小社会，各种小社会相互连结成大社会。<p>
+<p>《争议代理 Miroir Thérapeute》皇室造恶，皇室赎罪，冥界授权，安抚阳间。</p>
 《教学相长 Lezdom Lessons》苍天未死，东道降世，水滴石穿，汇流江河。<p>
 《边缘执法 Gray Deadline》政府的暴力机关丧失公信就由民间自发组织<p>
 《另类战争 No Winner》用囚犯做各种实验各国政府都有做只是希弥瓦奇皇室公开化。<p>
