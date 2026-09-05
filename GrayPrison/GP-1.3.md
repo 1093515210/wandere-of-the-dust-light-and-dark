@@ -1,4 +1,4 @@
-<img width="1401" height="731" alt="image" src="https://github.com/user-attachments/assets/5ca684e9-fa13-4891-8468-bda5724700e8" /><img width="1401" height="731" alt="image" src="https://github.com/user-attachments/assets/4631a177-f213-4166-af80-bd3cfd36f91e" /><img width="1401" height="731" alt="image" src="https://github.com/user-attachments/assets/7bb37bd1-6790-4df9-9ea1-4b201fb09257" /># 芙丝汀•奥弗加德/Faustine Overgaard（秘书长）篇
+># 芙丝汀•奥弗加德/Faustine Overgaard（秘书长）篇
 谁人曾想此人未来是伊利法乐•霍伦斯坦的播音系老师、希弥瓦奇皇太后？<P>	
 <p align="right">——欧糯拉•祖咖洛<P>	
 千国法律严苛程度媲美秦制。<P>	
@@ -30,8 +30,8 @@
 **【千国44年4月7日】**<P>	
 PASS<P>	
 **【千国44年4月8日】**<P>	
-PASS<P>	**
-【千国44年4月9日】**<P>	
+PASS<P>
+**【千国44年4月9日】**<P>	
 没我什么事去看了下女儿，他们目前在千代中城读寄宿高中马上大学预科。<P>	
 **【千国44年4月10日】**<P>	
 终于轮到我有机会抽她了，叫得真淫荡啊。达格玛写了一封信大意是联盟来制衡伊万娜权力过大，我只想好好服完刑然后走人不想卷入政治斗争。但要是真卷入了该怎么退场，《战争论》能否给我答案。<P>	
